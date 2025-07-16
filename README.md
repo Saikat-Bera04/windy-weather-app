@@ -38,7 +38,7 @@ A beautiful, interactive weather application that provides real-time weather dat
 
 ### Key Implementation Details
 
-1. **Glassmorphism Design**:
+1. ***Glassmorphism Design***:
    - Created using `backdrop-filter: blur()` with semi-transparent backgrounds
    - Added border effects for depth
    - Implemented floating dot animations with CSS keyframes
