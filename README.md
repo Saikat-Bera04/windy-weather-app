@@ -1,4 +1,4 @@
-# windy-weather-app
+# WINDY
 # 🌦️ Weather Forecast App
 
 A beautiful, interactive weather application that provides real-time weather data for any location worldwide. Built with HTML, CSS, and JavaScript, this app features a stunning glassmorphism UI design with animated elements.
